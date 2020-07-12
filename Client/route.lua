@@ -1,0 +1,30 @@
+local module = {
+	["Dec24#11"] = Vector2.new(0.715, 0.238),
+	["Dec24#12"] = Vector2.new(0.95, 0.475),
+	["Dec24#13"] = Vector2.new(0.975, 0.7),
+	["Dec24#14"] = Vector2.new(0.81, 0.475),
+	["Dec24#15"] = Vector2.new(0.76, 0.45),
+	["Dec24#16"] = Vector2.new(0.95, 0.15),
+	["Dec24#17"] = Vector2.new(0.9, 0.1),
+	["Dec24#18"] = Vector2.new(0.76, 0.238),
+	["Dec24#19"] = Vector2.new(0.72, 0.45),
+	["Dec24#20"] = Vector2.new(0.76, 0.08),
+	["Dec24#21"] = Vector2.new(0.67, 0.34),
+	["Dec24#22"] = Vector2.new(0.68, 0.1),
+	["Dec24#23"] = Vector2.new(0.6, 0.34),
+	["Dec25#0"] = Vector2.new(0.55, 0.667),
+	["Dec25#1"] = Vector2.new(0.5, 0.45),
+	["Dec25#2"] = Vector2.new(0.6, 0.15),
+	["Dec25#3"] = Vector2.new(0.475, 0.16),
+	["Dec25#4"] = Vector2.new(0.3, 0.15),
+	["Dec25#5"] = Vector2.new(0.375, 0.5),
+	["Dec25#6"] = Vector2.new(0.283, 0.75),
+	["Dec25#7"] = Vector2.new(0.283, 0.4),
+	["Dec25#8"] = Vector2.new(0.15, 0.25),
+	["Dec25#9"] = Vector2.new(0.125, 0.08),
+	["Dec25#10"] = Vector2.new(0.05, 0.08),
+	["Dec25#11"] = Vector2.new(0, 0.4975),
+	["Dec25#12"] = Vector2.new(0.475, 0)
+}
+
+return module
